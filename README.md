@@ -1,7 +1,7 @@
 # Portifolio
 Portifolio de desenvolvedor
 
-##Tarefas 
+## Tarefas 
 O controle de tarefas de projeto será realizado no GitHub
 
 ## Ícones
